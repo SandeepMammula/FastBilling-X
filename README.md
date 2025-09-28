@@ -14,4 +14,5 @@ FastBillingX is a real-time grocery checkout system that uses computer vision to
 
 -Backend storage using FastAPI + MongoDB.
 
-## NOTE : I have used YOLOv8 model, which is pretrained on COCO dataset. So at present the system may detect classes which are present in COCO dataset.
+## NOTE :
+-I have used YOLOv8 model, which is pretrained on COCO dataset. So at present the system may detect classes which are present in COCO dataset.
